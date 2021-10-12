@@ -1,0 +1,7 @@
+// curl -X DELETE -H "Accept: application/json" "http://localhost:3000/organizations/7" | prettyjson
+// remember from phase 4: we are not allowed to destroy any organization!
+{
+    "base": [
+        "This organization cannot be deleted at this time. If this is a mistake, please alert the administrator."
+    ]
+}

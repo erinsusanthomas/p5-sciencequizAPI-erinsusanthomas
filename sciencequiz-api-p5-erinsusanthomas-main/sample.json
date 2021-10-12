@@ -1,0 +1,99 @@
+{
+    "data": [
+        {
+            "id": "4",
+            "type": "organization",
+            "attributes": {
+                "name": "Allegheny Center Alliance",
+                "street_1": "250 East Ohio St",
+                "city": "Pittsburgh",
+                "state": "PA",
+                "zip": "15212",
+                "short_name": "ACAC",
+                "active_teams": [
+                    {
+                        "data": {
+                            "id": "1",
+                            "type": "team",
+                            "attributes": {
+                                "name": "ACAC 1",
+                                "division": "senior",
+                                "coach": "Sophie Marceau",
+                                "number_students": 2
+                            }
+                        }
+                    }
+                ],
+                "inactive_teams": [
+                    {
+                        "data": {
+                            "id": "3",
+                            "type": "team",
+                            "attributes": {
+                                "name": "ACAC 4",
+                                "division": "senior",
+                                "coach": "Sophie Marceau",
+                                "number_students": 0
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "organization",
+            "attributes": {
+                "name": "Millvale Alliance",
+                "street_1": "10 Sherman St",
+                "city": "Pittsburgh",
+                "state": "PA",
+                "zip": "15209",
+                "short_name": "Millvale",
+                "active_teams": [
+                    {
+                        "data": {
+                            "id": "2",
+                            "type": "team",
+                            "attributes": {
+                                "name": "Millvale 1",
+                                "division": "junior",
+                                "coach": "Ed Gruberman",
+                                "number_students": 3
+                            }
+                        }
+                    }
+                ],
+                "inactive_teams": "No inactive teams currently!"
+            }
+        },
+        {
+            "id": "5",
+            "type": "organization",
+            "attributes": {
+                "name": "ScienceQuiz",
+                "street_1": "10152 Sudberry Dr",
+                "city": "Wexford",
+                "state": "PA",
+                "zip": "15090",
+                "short_name": "SQ",
+                "active_teams": "No active teams currently!",
+                "inactive_teams": "No inactive teams currently!"
+            }
+        },
+        {
+            "id": "2",
+            "type": "organization",
+            "attributes": {
+                "name": "Uniontown Alliance",
+                "street_1": "123 Matthew Dr",
+                "city": "Uniontown",
+                "state": "PA",
+                "zip": "15401",
+                "short_name": "Uniontown",
+                "active_teams": "No active teams currently!",
+                "inactive_teams": "No inactive teams currently!"
+            }
+        }
+    ]
+}

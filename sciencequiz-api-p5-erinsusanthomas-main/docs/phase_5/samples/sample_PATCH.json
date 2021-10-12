@@ -1,0 +1,14 @@
+// curl -X PATCH --data 'short_name=STANFORD' -H "Accept: application/json" "http://localhost:3000/organizations/8" | prettyjson
+{
+    "id": 8,
+    "short_name": "STANFORD",
+    "name": "Stanford University",
+    "street_1": "450 Serra Mall",
+    "zip": "94305",
+    "state": "CA",
+    "street_2": null,
+    "city": "Stanford",
+    "active": true,
+    "created_at": "2021-04-25T17:20:18.652Z",
+    "updated_at": "2021-04-25T17:21:22.817Z"
+}

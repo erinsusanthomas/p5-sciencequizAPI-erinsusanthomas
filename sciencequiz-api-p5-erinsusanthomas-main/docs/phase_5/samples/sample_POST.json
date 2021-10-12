@@ -1,0 +1,14 @@
+// curl -X POST --data 'name=Stanford University&street_1=450 Serra Mall&city=Stanford&state=CA&zip=94305&short_name=STANF' -H "Accept: application/json" "http://localhost:3000/organizations" | prettyjson
+{
+    "id": 8,
+    "name": "Stanford University",
+    "street_1": "450 Serra Mall",
+    "street_2": null,
+    "city": "Stanford",
+    "state": "CA",
+    "zip": "94305",
+    "short_name": "STANF",
+    "active": true,
+    "created_at": "2021-04-25T17:20:18.652Z",
+    "updated_at": "2021-04-25T17:20:18.652Z"
+}
